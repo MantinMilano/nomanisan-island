@@ -1,4 +1,7 @@
 # Nomanisan Island: Kronos Protocol
+I KNOW ITS NOT GOOD JUST A "PROTOTYPE" YOU CAN GET IT AND UPGRADE IT
+
+
 
 A fan-made, third-person superhero adventure set on Syndrome's volcano island from Pixar's *The Incredibles* (2004). It runs in the browser: one HTML file, Three.js, no install.
 
