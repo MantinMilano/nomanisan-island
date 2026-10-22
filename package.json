@@ -1,0 +1,15 @@
+{
+  "name": "nomanisan-island",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Fan-made third-person superhero adventure on Syndrome's volcano island, in one HTML file.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "check": "node tools/check.mjs",
+    "publish": "node build.mjs && node -e \"require('fs').copyFileSync('dist/nomanisan.html','docs/index.html')\""
+  },
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}
